@@ -75,7 +75,7 @@
 - [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden.
 - [manascode.com](https://manascode.com) - Manascode's Personal blog.
 - [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website.
-- [bibhutipoudyal.com.np](https://bibhutipoudyal.com.np) - Bibhuti Poudyal's website.
+- [bibhuti.me](https://bibhuti.me/) - Bibhuti Poudyal's website.
 
 ## Contribute
 
