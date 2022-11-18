@@ -76,6 +76,7 @@
 - [manascode.com](https://manascode.com) - Manascode's Personal blog.
 - [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website.
 - [bibhutipoudyal.com.np](https://bibhutipoudyal.com.np) - Bibhuti Poudyal's website.
+- [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
 
 ## Contribute
 
